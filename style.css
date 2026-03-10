@@ -1,10 +1,17 @@
 body {
     background-color: lightblue;
-
+    scrollbar-color: rgb(0, 191, 255);
 } p2 {
 color: lightcoral;
+font-size: xx-large;
 
 } h1 {
-font-family: Georgia, 'Times New Roman', Times, serif;
+font: Serif;
 
+} p {
+    color: lightblue;
+    
+} img {
+    border: 2px solid blue;
+    
 }
