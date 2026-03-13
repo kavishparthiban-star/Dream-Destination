@@ -6,12 +6,21 @@ color: lightcoral;
 font-size: xx-large;
 
 } h1 {
-font: Serif;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
-} p {
-    color: lightblue;
+} p1 {
+    color: black;
     
 } img {
-    border: 2px solid blue;
+    border: 10px solid rgb(243, 84, 111);
     
+} p3 {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+} a {
+    color: hotpink;
+    text-decoration: underline;
+} a:hover {
+    color: greenyellow;
+    text-decoration-line: none;
 }
